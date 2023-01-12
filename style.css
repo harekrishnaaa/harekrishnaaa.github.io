@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(226, 197, 159);
+}
+.btn {
+  width: 100px;
+  height: 40px;
+  background-color: aquamarine;
+  border-radius: 4px;
+}
+.btn:hover {
+  background-color: blanchedalmond;
+}
